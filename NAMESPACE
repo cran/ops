@@ -1,0 +1,9 @@
+# 2012-02-19 Created the initial namespace
+
+# No dependencies, no import of 3rd-party packages required
+
+# List functions to be visible from outside the package
+export(
+   "findP"   ,
+   "distance",
+   "filter")
